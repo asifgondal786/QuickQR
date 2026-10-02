@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quickqr-22a.pages.dev/sitemap.xml
